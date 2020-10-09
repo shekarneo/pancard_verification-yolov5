@@ -8,7 +8,7 @@ please look into inference_pan.ipynb and tutorial.ipynb notebook for more detail
 
 ## Results
 
-![Screenshot](inference/output/pan1.jpg)
+![Screenshot](inference/output/output.jpg)
 
 ocr_output
 
